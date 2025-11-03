@@ -34,3 +34,8 @@ npm install -g hardhat
 
 echo "=== Installation Complete ==="
 echo "Docker, Node.js, Hyperledger Fabric, and Ethereum tools are ready."
+
+---------------------------
+chmod +x setup-blockchain-env.sh
+./setup-blockchain-env.sh
+
